@@ -1,0 +1,1 @@
+dotnet publish /p:NativeLib=Shared --use-current-runtime
